@@ -1,3 +1,6 @@
+**LoopCoin**
+A Very Simple Blockchain & Crypto currency using Python Flask API and React JS.
+
 **Activate the virtual environment**
 
 ```
@@ -9,9 +12,6 @@ source blockchain-env/bin/activate
 ```
 pip install -r requirements.txt
 ```
-
-**LoopCoin**
-A Very Simple Blockchain & Crypto currency using Python Flask API and React JS.
 
 **Run the tests**
 Make sure to activate the virtual environment.
