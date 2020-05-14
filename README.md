@@ -2,11 +2,6 @@
 
 Is A Very Simple Blockchain & Crypto currency using Python Flask API and React JS.
 
-**Activate the virtual environment**
-
-```
-source blockchain-env/bin/activate
-```
 
 **Install all packages**
 
