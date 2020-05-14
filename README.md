@@ -1,4 +1,6 @@
-**LoopCoin** Is A Very Simple Blockchain & Crypto currency using Python Flask API and React JS.
+**LoopCoin** 
+
+Is A Very Simple Blockchain & Crypto currency using Python Flask API and React JS.
 
 **Activate the virtual environment**
 
@@ -36,6 +38,6 @@ npm start in ./client directory.
 **Seed the backend with data**
 Make sure to activate the virtual environment.
 
-'''
+```
 set SEED_DATA=True && python -m core.app
-'''
+```
