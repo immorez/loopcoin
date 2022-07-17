@@ -1,6 +1,6 @@
 **LoopCoin** 
 
-Is A Very Simple Blockchain & Crypto currency using Python Flask API and React JS.
+Loopcoin is a minimal bitcoin-like PoW blockchain.
 
 
 **Install all packages**
